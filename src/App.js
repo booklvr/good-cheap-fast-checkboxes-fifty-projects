@@ -1,8 +1,8 @@
 import React from 'react'
-import placeholder from './components/placeholder'
+import Checkboxes from './components/Checkboxes'
 
 const App = () => {
-  return <placeholder />
+  return <Checkboxes />
 }
 
 export default App
